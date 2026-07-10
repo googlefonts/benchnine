@@ -1,0 +1,6 @@
+buildVariable: false
+removeOutlineOverlaps: false
+sources:
+  - BenchNine-Bold.glyphs
+  - BenchNine-Light.glyphs
+  - BenchNine-Regular.glyphs
